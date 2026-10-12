@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 
 // build.gradle.kts
 dependencies {
-    implementation("com.github.Wirye.mangaDex-kt:mangaDex-kt:1.0.0")
+    implementation("com.github.Wirye.mangaDex-kt:mangaDex-kt:1.0.1")
 }
 ```
 
