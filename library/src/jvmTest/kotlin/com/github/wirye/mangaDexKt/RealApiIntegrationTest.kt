@@ -1,14 +1,14 @@
-package com.github.wirye.musicBrainzkt
+package com.github.wirye.mangaDexKt
 
-import com.github.wirye.musicBrainzkt.model.CoverSize
-import com.github.wirye.musicBrainzkt.model.ReferenceExpansion
-import com.github.wirye.musicBrainzkt.model.artistNames
-import com.github.wirye.musicBrainzkt.model.authorIds
-import com.github.wirye.musicBrainzkt.model.authorNames
-import com.github.wirye.musicBrainzkt.model.coverUrl
-import com.github.wirye.musicBrainzkt.model.displayTitle
-import com.github.wirye.musicBrainzkt.model.scanlationGroupNames
-import com.github.wirye.musicBrainzkt.model.url
+import com.github.wirye.mangaDexKt.model.CoverSize
+import com.github.wirye.mangaDexKt.model.ReferenceExpansion
+import com.github.wirye.mangaDexKt.model.artistNames
+import com.github.wirye.mangaDexKt.model.authorIds
+import com.github.wirye.mangaDexKt.model.authorNames
+import com.github.wirye.mangaDexKt.model.coverUrl
+import com.github.wirye.mangaDexKt.model.displayTitle
+import com.github.wirye.mangaDexKt.model.scanlationGroupNames
+import com.github.wirye.mangaDexKt.model.url
 import kotlinx.coroutines.runBlocking
 import kotlin.test.Test
 import kotlin.test.assertTrue

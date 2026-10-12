@@ -1,10 +1,10 @@
-package com.github.wirye.musicBrainzkt
+package com.github.wirye.mangaDexKt
 
-import com.github.wirye.musicBrainzkt.api.AuthorApi
-import com.github.wirye.musicBrainzkt.api.ChapterApi
-import com.github.wirye.musicBrainzkt.api.CoverApi
-import com.github.wirye.musicBrainzkt.api.MangaApi
-import com.github.wirye.musicBrainzkt.api.ReaderApi
+import com.github.wirye.mangaDexKt.api.AuthorApi
+import com.github.wirye.mangaDexKt.api.ChapterApi
+import com.github.wirye.mangaDexKt.api.CoverApi
+import com.github.wirye.mangaDexKt.api.MangaApi
+import com.github.wirye.mangaDexKt.api.ReaderApi
 import io.ktor.client.HttpClient
 import io.ktor.client.HttpClientConfig
 import io.ktor.client.plugins.UserAgent

@@ -1,4 +1,4 @@
-package com.github.wirye.musicBrainzkt.model
+package com.github.wirye.mangaDexKt.model
 
 import kotlin.time.Duration.Companion.minutes
 import kotlin.time.TimeSource

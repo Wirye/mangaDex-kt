@@ -1,11 +1,11 @@
-package com.github.wirye.musicBrainzkt.api
+package com.github.wirye.mangaDexKt.api
 
-import com.github.wirye.musicBrainzkt.MangaDexRateLimiter
-import com.github.wirye.musicBrainzkt.exception.MangaDexException
-import com.github.wirye.musicBrainzkt.model.AtHomeResponse
-import com.github.wirye.musicBrainzkt.model.ChapterPages
-import com.github.wirye.musicBrainzkt.model.ImageQuality
-import com.github.wirye.musicBrainzkt.model.decode
+import com.github.wirye.mangaDexKt.MangaDexRateLimiter
+import com.github.wirye.mangaDexKt.exception.MangaDexException
+import com.github.wirye.mangaDexKt.model.AtHomeResponse
+import com.github.wirye.mangaDexKt.model.ChapterPages
+import com.github.wirye.mangaDexKt.model.ImageQuality
+import com.github.wirye.mangaDexKt.model.decode
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
@@ -18,9 +18,6 @@ import io.ktor.http.contentLength
 import io.ktor.http.content.TextContent
 import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.put
-import kotlin.collections.get
-import kotlin.text.get
-import kotlin.text.iterator
 import kotlin.time.TimeSource
 
 /**

@@ -1,4 +1,4 @@
-package com.github.wirye.musicBrainzkt.exception
+package com.github.wirye.mangaDexKt.exception
 
 sealed class MangaDexException(message: String) : Exception(message) {
     class NotFoundException : MangaDexException("Ничего не найдено (404)")

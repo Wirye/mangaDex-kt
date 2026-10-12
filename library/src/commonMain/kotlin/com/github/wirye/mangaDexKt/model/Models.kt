@@ -1,4 +1,4 @@
-package com.github.wirye.musicBrainzkt.model
+package com.github.wirye.mangaDexKt.model
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.JsonObject

@@ -1,4 +1,4 @@
-package com.github.wirye.musicBrainzkt.model
+package com.github.wirye.mangaDexKt.model
 
 /** Значения для параметров запроса. В ответах те же поля приходят обычными строками, чтобы новое значение не ломало разбор. */
 

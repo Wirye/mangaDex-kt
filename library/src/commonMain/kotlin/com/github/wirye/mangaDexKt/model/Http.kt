@@ -1,5 +1,5 @@
 // Поправьте package под свой проект (во всех файлах).
-package com.github.wirye.musicBrainzkt.model
+package com.github.wirye.mangaDexKt.model
 
 import io.ktor.client.statement.HttpResponse
 import io.ktor.client.statement.bodyAsText
